@@ -1,0 +1,8 @@
+
+ NPM(K)    PM(M)      WS(M)     CPU(s)      Id  SI ProcessName
+ ------    -----      -----     ------      --  -- -----------
+     36    64.09      87.25       4.98    1556   1 powershell
+
+cs
+System.Security.SecureString
+PowerShell
